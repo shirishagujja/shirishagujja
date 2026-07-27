@@ -8,12 +8,11 @@ I enjoy building scalable backend systems, AI-powered applications, and cloud-na
 
 ## 💡 Focus Areas
 
-- Backend Engineering  
-- AI & LLM Applications  
-- Cloud Computing  
-- Distributed Systems   
-- Full Stack Development  
-- Developer Productivity Tools  
+- Backend Engineering
+- Distributed Systems
+- AI Infrastructure & LLM Applications
+- Developer Tools
+- Cloud Platforms & Reliability Engineering 
 
 ## 🚀 Featured Projects
 
