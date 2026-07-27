@@ -24,13 +24,11 @@ The Cloud-Native LLM Gateway centralizes model access while helping applications
 
 Highlights
 
-🔐 Multi-tenant organization API keys  
-🔄 LLM provider abstraction  
-⚡ Redis-backed rate limiting  
-📊 Usage tracking and request monitoring  
-🩺 Health checks and structured logging  
-🔭 OpenTelemetry observability  
-🐳 Containerized cloud deployment  
+- Multi-tenant architecture with organization-level API key management
+- Provider abstraction for integrating multiple LLM providers
+- Redis-backed rate limiting and request coordination
+- Structured logging, health monitoring, and request observability
+- Built with FastAPI, Docker, Cloud Run, Cloud SQL (PostgreSQL), Redis (Memorystore), and OpenTelemetry
 
 Tech Stack
 
