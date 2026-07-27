@@ -88,6 +88,10 @@ FastAPI • PostgreSQL • Redis • Celery • OpenAI • Next.js • TypeScrip
 
 https://github.com/shirishagujja/FitForge
 
+🌐 Live Application
+
+https://fitforge.18-221-88-168.sslip.io/
+
 ## 🌱 Currently Working On
 
 Expanding the Cloud-Native LLM Gateway into a production-ready backend platform  
