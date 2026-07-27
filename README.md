@@ -42,6 +42,8 @@ FastAPI • PostgreSQL • Redis • Docker • OpenTelemetry • Cloud
 
 https://github.com/shirishagujja/llm-api-gateway
 
+---
+
 ### 💰 Meridian
 
 A cloud-native personal finance platform that helps users manage budgets, investments, and financial goals using AI-powered insights and scalable event-driven architecture.
@@ -64,6 +66,8 @@ FastAPI • PostgreSQL • Redis • Docker • AWS • OpenAI
 🔗 Repository
 
 https://github.com/shirishagujja/Meridian
+
+---
 
 ### 🏋️ FitForge
 
@@ -91,6 +95,8 @@ https://github.com/shirishagujja/FitForge
 🌐 Live Application
 
 https://fitforge.18-221-88-168.sslip.io/
+
+---
 
 ## 🌱 Currently Working On
 
