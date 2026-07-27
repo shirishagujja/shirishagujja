@@ -100,9 +100,9 @@ https://fitforge.18-221-88-168.sslip.io/
 
 ## 🌱 Currently Working On
 
-Expanding the Cloud-Native LLM Gateway into a production-ready backend platform  
-Learning more about distributed systems, system design, and cloud-native architectures  
-Exploring AI infrastructure, retrieval systems, and developer tooling  
+- Expanding the Cloud-Native LLM Gateway into a production-ready backend platform  
+- Learning more about distributed systems, system design, and cloud-native architectures  
+- Exploring AI infrastructure, retrieval systems, and developer tooling  
 
 ## 💼 Experience
 
@@ -110,18 +110,18 @@ Exploring AI infrastructure, retrieval systems, and developer tooling
 
 S&P Global
 
-Built AI-powered workflows integrating GraphQL and LLMs  
-Developed reusable React components  
-Designed backend APIs for AI features  
-Improved engineering productivity using GitHub Copilot  
+- Built AI-powered workflows integrating GraphQL and LLMs  
+- Developed reusable React components  
+- Designed backend APIs for AI features  
+- Improved engineering productivity using GitHub Copilot  
 
 ### Software Development Engineer Intern
 
 S&P Global
 
-Migrated large-scale ETL pipelines from SQL Server to Amazon Redshift  
-Reduced execution time by 79%  
-Built modular Python ETL pipelines with logging, retries, and validation  
+- Migrated large-scale ETL pipelines from SQL Server to Amazon Redshift  
+- Reduced execution time by 79%  
+- Built modular Python ETL pipelines with logging, retries, and validation  
 
 ## 🛠 Tech Stack
 
